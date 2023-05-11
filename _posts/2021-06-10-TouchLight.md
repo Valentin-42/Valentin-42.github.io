@@ -18,9 +18,10 @@ categories :
 This 3 months project involves controlling the color of one or more LEDs based on the position of a finger on a resistive touch screen. The project was implemented using a neopixel and a touch screen box that includes a resistive touch surface, a display, and an ADC. A Basys 3 board was also used. The report below includes sections on the implementation of the neopixel, integration of the touch screen, display of colors on the neopixel along the X axis, mode Y, and additional information in the annexes.
 
 # PDF Report 
-<div style="text-align:center; margin-top:80px; margin-bottom:80px;">
-<iframe src="/assets/images/TouchLight/project_report.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+<div style="text-align:center; margin-top:80px; margin-bottom:80px; height:100vh; ">
+  <iframe src="/assets/images/TouchLight/project_report.pdf" style="width:70%; height:100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0"></iframe>
 </div>
+
 
 # Gallery
 
@@ -29,7 +30,7 @@ This 3 months project involves controlling the color of one or more LEDs based o
     {% if image.path contains '/assets/images/TouchLight/gallery' %}
       <div class="gallery-item" style="box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
         <a href="{{ image.path }}" data-lightbox="gallery">
-          <img src="{{ image.path }}" alt="{{ image.name }}" style="max-width:100%; max-height:100%;">
+          <img src="{{ image.path }}" alt="{{ image.name }}" style="max-width:100%; max-height:100%; border-radius: 10px;">
         </a> 
       </div>
     {% endif %}
@@ -71,7 +72,7 @@ This 3 months project involves controlling the color of one or more LEDs based o
 
 Here is our Google Slides presentation :
 
-<div style="text-align:center; margin-top:80px; margin-bottom:80px;">
-<iframe src="https://docs.google.com/presentation/d/1u-xUvSW6nCS6rS0w4zPCPsZCQlNiDVicjZBKPYF13Pg/edit?usp=sharing" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div style="text-align:center; margin-top:80px; margin-bottom:80px; height:100vh; ">
+  <iframe src="https://docs.google.com/presentation/d/1u-xUvSW6nCS6rS0w4zPCPsZCQlNiDVicjZBKPYF13Pg/edit?usp=sharing" style="width:70%; height:100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
