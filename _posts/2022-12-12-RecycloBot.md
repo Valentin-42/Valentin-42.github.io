@@ -11,4 +11,4 @@ header:
 
 ---
 
-RecycloBot : A robot collecting empty cans.
+A Robot collecting empty cans.
