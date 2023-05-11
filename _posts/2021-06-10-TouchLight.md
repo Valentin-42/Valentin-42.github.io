@@ -1,12 +1,14 @@
 ---
 layout: splash
 title:  "TouchLight: Interactive Illumination Effects"
-excerpt: "VHDL student Project"
+excerpt: "Realized in 2021. <br> **VHDL school Project**"
+read_time: false
 
 header: 
   overlay_image: "/assets/images/TouchLight/header.jpg"
   show_overlay_excerpt : true
   overlay_filter : 0.2
+
 categories : 
   - VHDL
   - NeoPixel

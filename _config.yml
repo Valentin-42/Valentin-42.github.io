@@ -119,6 +119,9 @@ author:
       url: "https://www.ensea.fr/en"
     - label: "MSECE @ GaTech"
       url: "https://www.gatech.edu/"
+    - label: "Forked from mmistakes"
+      url: "https://mmistakes.github.io/"
+
 
     - label: "Website ex"
       icon: "fas fa-fw fa-link"
@@ -266,4 +269,5 @@ defaults:
       share: true
       related: true
       share: true
+  
 
