@@ -1,7 +1,7 @@
 ---
 layout: splash
 title:  "TouchLight: Interactive Illumination Effects"
-excerpt: "Introduction to VHDL final project"
+excerpt: "VHDL student Project"
 
 header: 
   overlay_image: "/assets/images/TouchLight/header.jpg"
@@ -24,8 +24,7 @@ This 3 months project involves controlling the color of one or more LEDs based o
 
 # Gallery
 
-
-<div class="gallery">
+<div class="gallery" style="margin-top:60px; margin-bottom:60px;">
   {% for image in site.static_files %}
     {% if image.path contains '/assets/images/TouchLight/gallery' %}
       <div class="gallery-item" style="box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
