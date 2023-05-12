@@ -25,7 +25,11 @@ In this project, we used a TurtleBot, ROS packages, and CoppeliaSim to accomplis
 * Utilizing the autodock package from the TurtleBot repository
 * Through the use of these various packages and tools, we were able to successfully complete the task at hand.
 
-# Gallery
+# Steps
+
+- **1** Undocking
+- **2** Exploring 
+- **3** Publishing signal map 
 
 <div class="gallery" style="margin-top:60px; margin-bottom:60px;">
   {% for image in site.static_files %}
@@ -69,3 +73,12 @@ In this project, we used a TurtleBot, ROS packages, and CoppeliaSim to accomplis
 
 
 # Report / Slides
+
+<div style="text-align:center;">
+  <a href="https://docs.google.com/presentation/d/1Cph7DQELKf_s43IZuK-kRxhRNBna7I4FWuRhe_fuN5s/edit?usp=sharing" download class="btn btn-primary" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">Open in Google Slides</a>
+</div>
+
+
+<div style="text-align:center; margin-top:80px; margin-bottom:80px; height:100vw; ">
+  <iframe src="https://docs.google.com/presentation/d/1Cph7DQELKf_s43IZuK-kRxhRNBna7I4FWuRhe_fuN5s/edit?usp=sharing" style="width:70%; height:100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
