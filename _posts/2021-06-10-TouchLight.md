@@ -25,9 +25,20 @@ This 3 months project involves controlling the color of one or more LEDs based o
 </div> -->
 
 <!-- PDF Report -->
-<div style="text-align:center; margin-top:80px; margin-bottom:80px;">
+<!-- <div style="text-align:center; margin-top:80px; margin-bottom:80px;">
   <iframe src="/assets/images/TouchLight/project_report.pdf" style="width:100%; min-height:500px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0"></iframe>
+</div> -->
+
+<!-- PDF Report -->
+<div style="height: 100vh; margin-top: 80px; margin-bottom: 80px;">
+  <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+    <object class="fitvidsignore" data="/assets/images/TouchLight/project_report.pdf" type="application/pdf" style="width: 70%; height: 100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0"> 
+      <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="/assets/images/TouchLight/project_report.pdf">click here to download the PDF file.</a></p>  
+    </object>
+  </div>
 </div>
+
+
 
 
 
