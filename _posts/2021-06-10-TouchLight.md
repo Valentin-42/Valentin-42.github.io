@@ -38,7 +38,7 @@ This 3 months project involves controlling the color of one or more LEDs based o
 <div class="gallery" style="margin-top:60px; margin-bottom:60px;">
   {% for image in site.static_files %}
     {% if image.path contains '/assets/images/TouchLight/gallery' %}
-      <div class="gallery-item" style="box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+      <div class="gallery-item">
         <a href="{{ image.path }}" data-lightbox="gallery">
           <img src="{{ image.path }}" alt="{{ image.name }}" style="max-width:100%; max-height:100%; border-radius: 10px;">
         </a> 
@@ -89,6 +89,3 @@ Here is our Google Slides presentation :
 <div style="text-align:center; margin-top:80px; margin-bottom:80px; height:100vw; ">
   <iframe src="https://docs.google.com/presentation/d/1u-xUvSW6nCS6rS0w4zPCPsZCQlNiDVicjZBKPYF13Pg/edit?usp=sharing" style="width:70%; height:100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
-
-   

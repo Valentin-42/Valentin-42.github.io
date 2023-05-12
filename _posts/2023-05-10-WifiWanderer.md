@@ -25,8 +25,47 @@ In this project, we used a TurtleBot, ROS packages, and CoppeliaSim to accomplis
 * Utilizing the autodock package from the TurtleBot repository
 * Through the use of these various packages and tools, we were able to successfully complete the task at hand.
 
-# Demo
+# Gallery
 
-![Alt Text](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<div class="gallery" style="margin-top:60px; margin-bottom:60px;">
+  {% for image in site.static_files %}
+    {% if image.path contains '/assets/images/WifiWanderer/gallery' %}
+      <div class="gallery-item">
+        <a href="{{ image.path }}" data-lightbox="gallery">
+          <img src="{{ image.path }}" alt="{{ image.name }}" style="max-width:100%; max-height:100%;border-radius: 10px;">
+        </a> 
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 10px;
+  justify-content: center;
+}
+
+.gallery-item {
+  flex: 0 0 calc(25% - 20px);
+  margin: 10px;
+}
+
+.gallery img {
+  min-height: 100%;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+@media screen and (max-width: 767px) {
+  .gallery-item {
+    flex-basis: calc(50% - 20px);
+  }
+}
+</style>
+
 
 # Report / Slides
