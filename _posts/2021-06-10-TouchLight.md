@@ -20,22 +20,15 @@ categories :
 This 3 months project involves controlling the color of one or more LEDs based on the position of a finger on a resistive touch screen. The project was implemented using a neopixel and a touch screen box that includes a resistive touch surface, a display, and an ADC. A Basys 3 board was also used. The report below includes sections on the implementation of the neopixel, integration of the touch screen, display of colors on the neopixel along the X axis, mode Y, and additional information in the annexes.
 
 # PDF Report 
-<!-- <div style="text-align:center; margin-top:80px; margin-bottom:80px; height:100vh; ">
-  <iframe src="/assets/images/TouchLight/project_report.pdf" style="width:70%; height:100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0"></iframe>
-</div> -->
 
-<!-- PDF Report -->
-<!-- <div style="text-align:center; margin-top:80px; margin-bottom:80px;">
-  <iframe src="/assets/images/TouchLight/project_report.pdf" style="width:100%; min-height:500px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0"></iframe>
-</div> -->
-
-<!-- PDF Report -->
-<div style="height: 100vh; margin-top: 80px; margin-bottom: 80px;">
-  <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-    <iframe class="fitvidsignore" src="/assets/images/TouchLight/project_report.pdf" style="width: 70%; height: 100%; border: none;"></iframe>
-    <p class="fallback-link" style="display: none;">It appears you are using an iOS device and cannot view the PDF. No biggie... you can <a href="/assets/images/TouchLight/project_report.pdf">click here to download the PDF file.</a></p>  
-  </div>
+<div style="text-align:center;">
+  <a href="/assets/images/TouchLight/project_report.pdf" download class="btn btn-primary" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">Download PDF</a>
 </div>
+
+<div style="text-align:center; margin-top:80px; margin-bottom:80px;">
+  <iframe src="/assets/images/TouchLight/project_report.pdf" style="width:70%; min-height:100vw; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0"></iframe>
+</div>
+
 
 
 
