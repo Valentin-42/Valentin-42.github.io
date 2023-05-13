@@ -29,20 +29,16 @@ I worked in the Orientation control team and proposed a mecanical system to orie
 
 
 
-# Mecanical system
+# Video
 
-
-
-# Project details
-
-Video incomming
+{% include video id="cH4shGK4SWk" provider="youtube" %}
 
 # Gallery
 
 <div class="gallery" style="margin-top:60px; margin-bottom:60px;">
   {% for image in site.static_files %}
     {% if image.path contains '/assets/images/MINI-APTERROS/gallery' %}
-      <div class="gallery-item" style="box-shadow: 2px 2px 5px rgba(0,0,0,0.3); border-radius: 10px;">
+      <div class="gallery-item">
         <a href="{{ image.path }}" data-lightbox="gallery">
           <img src="{{ image.path }}" alt="{{ image.name }}" style="max-width:100%; max-height:100%; border-radius: 10px;">
         </a> 
@@ -66,9 +62,9 @@ Video incomming
 
 .gallery img {
   /* min-width: 100%; */
-  min-height: 100%;
-  /* max-width: 100%; */
-  height: 300px;
+  /* min-height: 100%; */
+  max-width: 100%;
+  /* height: 300px; */
   display: block;
   margin: 0 auto;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
