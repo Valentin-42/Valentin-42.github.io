@@ -10,7 +10,7 @@ categories :
   - Reinforcement learning
 
 header: 
-  overlay_image: 
+  overlay_image: /assets/images/RecycloBot/header.jpg
   show_overlay_excerpt : true
   overlay_filter : 0.2
 ---
