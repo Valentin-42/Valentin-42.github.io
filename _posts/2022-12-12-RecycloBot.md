@@ -15,4 +15,12 @@ header:
   overlay_filter : 0.2
 ---
 
+
+# About 
 A Robot collecting empty cans.
+
+#
+
+# Slide
+
+https://docs.google.com/presentation/d/1Ua8Yso0nb4UkJnpigyOGkqx0J10J4MU-0cG9D3aCUOo/edit?usp=sharing

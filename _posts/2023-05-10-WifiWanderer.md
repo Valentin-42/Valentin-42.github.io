@@ -12,7 +12,7 @@ header:
 ---
 # Context
 
-Realized as a final 3 weeks project for : CS Autonomous robotics @ GaTech Europe.
+Realized as a final 3 weeks project for : CS 7630 Autonomous robotics @ GaTech Europe.
 
 # Scenario 
 
@@ -23,7 +23,7 @@ In this project, we used a TurtleBot, ROS packages, and CoppeliaSim to accomplis
 * Implementing A* / Dijkstra algorithm to find paths for exploration and obstacle avoidance
 * Joystick commands and obstacle prevention based on laser obstacle distances
 * Utilizing the autodock package from the TurtleBot repository
-* Through the use of these various packages and tools, we were able to successfully complete the task at hand.
+
 
 # Steps
 
@@ -79,6 +79,6 @@ In this project, we used a TurtleBot, ROS packages, and CoppeliaSim to accomplis
 </div>
 
 
-<div style="text-align:center; margin-top:80px; margin-bottom:80px; height:100vw; ">
+<div style="text-align:center; margin-top:80px; margin-bottom:80px; height:100vh; ">
   <iframe src="https://docs.google.com/presentation/d/1Cph7DQELKf_s43IZuK-kRxhRNBna7I4FWuRhe_fuN5s/edit?usp=sharing" style="width:70%; height:100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>

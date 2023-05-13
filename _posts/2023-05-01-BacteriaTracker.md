@@ -9,6 +9,9 @@ excerpt: "Realized in 2023 for micro-biologists. <br> **YOLO-based solution to t
 header: 
   overlay_image:  /assets/images/BacteriaTracker/header.jpg
   show_overlay_excerpt : true
+  actions:
+    - label: "Github"
+      url: "https://github.com/Valentin-42/bacteria_tracker"
 
 ---
 
