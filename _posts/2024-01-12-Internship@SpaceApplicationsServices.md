@@ -18,7 +18,7 @@ header:
 - PCB design
 - Development of 6 locomotion modes using ROS2: Differential Drive, Ackermann, Skid Steering, Double Ackermann, Crabbing or pure translation, Point Turn or pure rotation. 
 
-***Source:** (PDF) European Moon Rover System (EMRS). Available from: https://www.researchgate.net/publication/374373530_European_Moon_Rover_System_EMRS)*
+**Source:** (PDF) European Moon Rover System (EMRS). Available from: https://www.researchgate.net/publication/374373530_European_Moon_Rover_System_EMRS)
 
 **Project 2:** X-aRm, a Force-Feedback Device to Train Future Astronauts with eXtended Realities.
 
@@ -27,7 +27,7 @@ header:
 - Protobuf Communication with VR simulation
 - Web interface development and Dockerization
 
-***Source:** https://nebula.esa.int/content/x-arm-force-feedback-device-train-future-astronauts-extended-realities
+**Source:** https://nebula.esa.int/content/x-arm-force-feedback-device-train-future-astronauts-extended-realities
 
 # Skills developed 
 
