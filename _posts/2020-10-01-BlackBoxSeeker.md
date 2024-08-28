@@ -1,7 +1,7 @@
 ---
 layout: splash
 title:  "BBS : BlackBoxSeeker"
-excerpt: " Realized in 2020. <br> An Autonomous Search and Recovery Vessel."
+excerpt: " Completed in 2020. <br> An Autonomous Search and Recovery Vessel."
 read_time: false
 
 header: 

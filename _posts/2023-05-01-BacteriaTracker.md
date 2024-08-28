@@ -3,7 +3,7 @@ layout: splash
 title:  "Bacteria Tracker"
 categories : [Computer Vision]
 read_time: false
-excerpt: "Realized in 2023 for micro-biologists. <br> **YOLO-based solution to track bacteria in videos**"
+excerpt: "Completed in 2023 for micro-biologists. <br> **YOLO-based solution to track bacteria in videos**"
 
 
 header: 

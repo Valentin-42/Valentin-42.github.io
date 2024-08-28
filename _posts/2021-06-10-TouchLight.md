@@ -1,7 +1,7 @@
 ---
 layout: splash
 title:  "TouchLight: Interactive Illumination Effects"
-excerpt: "Realized in 2021. <br> **VHDL school Project**"
+excerpt: "Completed in 2021. <br> **VHDL school Project**"
 read_time: false
 
 header: 

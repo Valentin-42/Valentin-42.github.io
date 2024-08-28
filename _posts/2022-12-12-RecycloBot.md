@@ -1,7 +1,7 @@
 ---
 layout: splash
 title:  "RecycloBot"
-excerpt: "Realized in 2022. <br> **A Robot collecting empty cans.**"
+excerpt: "Completed in 2022. <br> **A Robot collecting empty cans.**"
 read_time: false
 
 categories : 

@@ -1,7 +1,7 @@
 ---
 layout: splash
 title:  "MINI-APTERROS"
-excerpt: "Realized in 2022. <br> **Reusable rocket launcher demonstrator.**"
+excerpt: "Completed in 2022. <br> **Reusable rocket launcher demonstrator.**"
 read_time: false
 
 header: 

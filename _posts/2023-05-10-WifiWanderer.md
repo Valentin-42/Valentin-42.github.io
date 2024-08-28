@@ -2,7 +2,7 @@
 layout: splash
 title:  "WiFiWanderer Bot"
 categories : [Robotics]
-excerpt: "Realized in 2023. <br> A Robotics system Mapping WiFi Signals."
+excerpt: "Completed in 2023. <br> A Robotics system Mapping WiFi Signals."
 read_time: false
 
 header: 
@@ -12,7 +12,7 @@ header:
 ---
 # Context
 
-Realized as a final 3 weeks project for : CS 7630 Autonomous robotics @ GaTech Europe.
+Completed as a final 3 weeks project for : CS 7630 Autonomous robotics @ GaTech Europe.
 
 # Scenario 
 
