@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:  "Internship Experience @ Space Applications Services"
+title:  "Internship @ Space Applications Services"
 categories : [Robotics]
 excerpt: "6 months internship (2023)"
 read_time: false
