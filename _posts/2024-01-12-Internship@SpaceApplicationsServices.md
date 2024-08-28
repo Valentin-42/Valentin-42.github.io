@@ -66,36 +66,35 @@ header:
     </div>
 </div>
 
-
 <style>
 .skill-bar {
-    margin: 20px 0;
+  margin: 20px 0;
 }
 
 .skill-name {
-    font-weight: bold;
-    margin-bottom: 5px;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
 
 .bar-container {
-    background-color: #e0e0e0;
-    border-radius: 25px;
-    padding: 5px;
+  background-color: #e0e0e0;
+  border-radius: 25px;
+  padding: 5px;
 }
 
 .bar {
-    background-color: #4caf50;
-    height: 25px;
-    border-radius: 20px;
-    line-height: 25px;
-    color: white;
-    text-align: center;
-    width: 0;
-    animation: fillBar 2s forwards;
+  background-color: #4caf50;
+  height: 25px;
+  border-radius: 20px;
+  line-height: 25px;
+  color: white;
+  text-align: center;
+  width: 0;
+  animation: fillBar 2s forwards;
 }
 
 @keyframes fillBar {
-    from { width: 0; }
-    to { width: 100%; }
+  from { width: 0; }
+  to { width: var(--final-width); } /* Use the inline style for final width */
 }
 </style>
