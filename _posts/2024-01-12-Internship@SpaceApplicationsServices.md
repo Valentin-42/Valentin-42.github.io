@@ -91,10 +91,12 @@ header:
   text-align: center;
   width: 0;
   animation: fillBar 2s forwards;
+  /* Assign the final width from the inline style to a CSS variable */
+  --final-width: attr(style width);
 }
 
 @keyframes fillBar {
   from { width: 0; }
-  to { width: var(--final-width); } /* Use the inline style for final width */
+  to { width: var(--final-width); } /* Animate to the final width */
 }
 </style>
