@@ -10,9 +10,11 @@ header:
   show_overlay_excerpt : true
 
 ---
-# Projects 
+# Projects I contributed to:
 
-**Project 1:** EMRS (ESA’s program “European Moon Rover System (EMRS)” is the first iteration of a European mobile robotic platformexpected to operate on the Moon surface by 2030.
+## **Project 1: EMRS** 
+
+EMRS (ESA’s program “European Moon Rover System (EMRS)” is the first iteration of a European mobile robotic platformexpected to operate on the Moon surface by 2030.
 
 - Integration and routing
 - PCB design
@@ -20,7 +22,9 @@ header:
 
 **Source:** (PDF) European Moon Rover System (EMRS). Available from: https://www.researchgate.net/publication/374373530_European_Moon_Rover_System_EMRS)
 
-**Project 2:** X-aRm, a Force-Feedback Device to Train Future Astronauts with eXtended Realities.
+## **Project 2: X-aRm** 
+
+X-aRm, a Force-Feedback Device to Train Future Astronauts with eXtended Realities.
 
 - Development and tuning of the Admittance Control loop (and a lot of testings !)
 - PID Tuning
