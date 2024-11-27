@@ -27,7 +27,8 @@ Some of the things I completed myself:
 
 - Development of 6 locomotion modes using ROS2: This was the most fascinating part of this project, where I ran into complex geometric computations. Basically, based on the controller input, I developed six different locomotion modes for the rover: Differential Drive, Ackermann, Skid Steering, Double Ackermann, Crabbing (pure translation), and Point Turn (pure rotation). This experience significantly enhanced my understanding of robotic movement and control systems.
 
-If you want to learn more about it: 
+Learn more: 
+
 **Source:** (PDF) European Moon Rover System (EMRS). Available from: https://www.researchgate.net/publication/374373530_European_Moon_Rover_System_EMRS)
 
 
@@ -46,6 +47,6 @@ For this project, I felt really trusted by the team, and had a truely enriching 
 - Web Interface Development and Dockerization: I also worked on deploying and modifying a web interface to monitor the system status. A large state machine had to be set up to handle multiple events and ensure the system was safe to use.
 
 Learn more: 
+
 **Source:** https://nebula.esa.int/content/x-arm-force-feedback-device-train-future-astronauts-extended-realities
 
-</style>
