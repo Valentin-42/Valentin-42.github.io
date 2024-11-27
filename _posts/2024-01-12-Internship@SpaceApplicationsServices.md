@@ -6,7 +6,7 @@ excerpt: "6 months internship (2023)"
 read_time: false
 
 header: 
-  overlay_image: /assets/images/intern_sas/banner.png
+  overlay_image: /assets/images/intern_sas/banner.jpg
   show_overlay_excerpt : true
 
 ---
