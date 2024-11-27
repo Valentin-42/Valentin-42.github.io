@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:  "Went to CVPR 2024"
+title:  "CVPR 2024 😃"
 categories : [Computer Vision]
 excerpt: ""
 read_time: false
@@ -11,3 +11,4 @@ header:
 
 ---
 
+As a Graduate Researhc Assistant in Computer Vision, we participated 
