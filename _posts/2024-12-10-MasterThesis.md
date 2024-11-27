@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:  "CVPR 2024 😃"
+title:  "Master's Thesis"
 categories : [Computer Vision]
 excerpt: ""
 read_time: false
@@ -11,4 +11,4 @@ header:
 
 ---
 
-As a Graduate Researhc Assistant in Computer Vision, we participated 
+**Coming Soon**
